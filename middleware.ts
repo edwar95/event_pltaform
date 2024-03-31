@@ -13,6 +13,7 @@ export default authMiddleware({
     "/api/webhook/stripe",
     "/api/uploadthing",
     "/assets/images/logo.svg",
+    "/assets/images/hero.png",
   ],
 });
 
